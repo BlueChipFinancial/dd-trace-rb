@@ -23,7 +23,7 @@ module Datadog
       end
 
       # Raise Ruby 1.9 deprecation warning, if necessary.
-      raise_ruby_19_deprecation_warning!
+      #raise_ruby_19_deprecation_warning!
     end
 
     # Helper methods
